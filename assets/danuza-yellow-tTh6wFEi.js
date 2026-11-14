@@ -1,0 +1,1 @@
+var e=`/assets/danuza-yellow-BIT_Y7Sm.jpg`;export{e as t};

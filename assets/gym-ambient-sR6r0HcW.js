@@ -1,0 +1,1 @@
+var e=`/assets/danuza-hero-GEyf8Cq0.jpg`,t=`/assets/gym-ambient-C6cYzi-H.jpg`;export{e as n,t};
